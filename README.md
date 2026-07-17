@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando mais linguagens voltadas para a Analise de dados (BI)
 - 😄 Pronouns: Ele/Dele
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloRGC&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=PauloRGC&theme=tokyonight"/>
 
 
 ## 🚀 Projetos em destaque
