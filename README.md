@@ -6,7 +6,6 @@
 
 <img src="https://streak-stats.demolab.com?user=PauloRGC&theme=tokyonight"/>
 
-
 ## 🚀 Projetos em destaque
 
 ### 📊 Projeto Final EBAC
